@@ -1,6 +1,6 @@
-﻿<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
-
-# Investment
+﻿
+# 
+Investment
 
 ## 3. 风险与收益
 
@@ -8,6 +8,12 @@
 ### 为什么？？
 
 为什么会有：
+
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\ln&space;\left&space;(&space;1&plus;r&space;\right&space;)&space;=&space;r" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\ln&space;\left&space;(&space;1&plus;r&space;\right&space;)&space;=&space;r" title="\ln \left ( 1+r \right ) = r" /></a>
+
+
+
 
 $$
 1+E\left ( r \right ) = \exp {r_{cc}}= e^{m}
