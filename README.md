@@ -12,6 +12,7 @@ $$
 1+E\left ( r \right ) = \exp {r_{cc}}= e^{m}
 $$
 \label{eq:3-22}
+\end{equation}
 
 ### 前提
 
