@@ -19,7 +19,7 @@ b.一年分为无数个持有期（持有期数<a href="https://www.codecogs.com
 
 c.年度复利变量<a href="https://www.codecogs.com/eqnedit.php?latex=r_{cc}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?r_{cc}" title="r_{cc}" /></a>服从正态分布，在第i个持有期内的利率为<a href="https://www.codecogs.com/eqnedit.php?latex=t\cdot&space;r_{cc_{i}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?t\cdot&space;r_{cc_{i}}" title="t\cdot r_{cc_{i}}" /></a>
 
-d.当<a href="https://www.codecogs.com/eqnedit.php?latex=t&space;\to&space;0" target="_blank"><img src="https://latex.codecogs.com/gif.latex?t&space;\to&space;0" title="t \to 0" /></a>）时，
+d.当<a href="https://www.codecogs.com/eqnedit.php?latex=t&space;\to&space;0" target="_blank"><img src="https://latex.codecogs.com/gif.latex?t&space;\to&space;0" title="t \to 0" /></a>时，
 <a href="https://www.codecogs.com/eqnedit.php?latex=\ln&space;\left&space;(&space;1&plus;r&space;\right&space;)&space;=&space;r" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\ln&space;\left&space;(&space;1&plus;r&space;\right&space;)&space;=&space;r" title="\ln \left ( 1+r \right ) = r" /></a>
 
 
@@ -37,6 +37,6 @@ d.当<a href="https://www.codecogs.com/eqnedit.php?latex=t&space;\to&space;0" ta
 
 在不足一年的短期内，年度连续复利的算数平均数表示年化百分利率。
 
-也就是可以认为每时每刻的复利利率为定值，这个值为算数平均数，得出的有效年利率相同(结合公式3-9)。
+也就是可以认为每时每刻的复利利率为定值，这个值为算术平均数，得出的有效年利率相同(结合公式3-9)。
 
 
